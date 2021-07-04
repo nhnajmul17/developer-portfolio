@@ -2,8 +2,13 @@ body{font-family: 'Indie Flower', cursive;
     margin:0;
 }
 h1{font-size: 50px;}
+
 .orange{color:orangered;}
-section{display:flex;}
+
+section{display:flex;
+padding-bottom: 150px;
+padding-top: 20px;}
+
 .half-width{width:50%;
 padding-left:5%;}
 .half-width img {width: 80%;}
