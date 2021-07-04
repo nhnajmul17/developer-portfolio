@@ -2,7 +2,7 @@ body{font-family: 'Indie Flower', cursive;
     margin:0;
 }
 h1{font-size: 50px;}
-p{
+p{ font-weight:600;
     color: dimgray;
 }
 
