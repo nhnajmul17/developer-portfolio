@@ -20,3 +20,7 @@ font-weight:700;
 border-radius: 20px;}
 .top-banner{background-image: url(images/top-banner.png);
 background-repeat: no-repeat;}
+
+.second-banner{background-image: url(images/dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;}
