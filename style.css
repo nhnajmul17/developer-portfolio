@@ -1,3 +1,8 @@
 body{font-family: 'Indie Flower', cursive;
 }
 h1{font-size: 50px;}
+.orange{color:orangered;}
+section{display:flex;}
+.half-width{width:50%;
+padding-left:5%;}
+.half-width img {width: 80%;}
