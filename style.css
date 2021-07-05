@@ -5,6 +5,7 @@ h1{font-size: 50px;}
 
 p{ font-weight:600;
     color: dimgray;
+    text-align:justify;
 }
 #h3{margin-left: 5%;}
 #p2{padding-right: 110px;}
@@ -43,3 +44,4 @@ background-position: left;}
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
 }
+.experience p{padding-right: 40px;}
